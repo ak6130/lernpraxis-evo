@@ -1,0 +1,1 @@
+2020-06-02 19:55:09	guest	https://lernpraxis-evo.at/backdoor/login/?id=1	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
