@@ -6,7 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo $config->urls->templates?>styles/main.css" />
 	</head>
 	<body>
-		<h1><?php echo $page->title; ?></h1>
-		<?php if($page->editable()) echo "<p><a href='$page->editURL'>Edit</a></p>"; ?>
+		<img src="<?php $config->urls->templates?>img/page1.PNG ?>" alt="Flyer Seite 1" width="100%">
+		<img src="<?php $config->urls->templates?>img/page2.PNG ?>" alt="Flyer Seite 2" width="100%">	
 	</body>
 </html>
